@@ -5,4 +5,4 @@ The concept involves merging the letters "m" and "w" within a circle, symbolizin
 
 [You can view the concept here:](https://github.com/user-attachments/files/21558123/ml4w_presentation1-merged.pdf)
 
-<iframe src="https://raw.githubusercontent.com/username/repository/branch/path/to/yourfile.pdf" width="600" height="400"></iframe>
+<iframe src="https://raw.githubusercontent.com/Affanmm/ml4w-redesign/assets/ml4w_redesign.pdf" width="1366" height="768"></iframe>
